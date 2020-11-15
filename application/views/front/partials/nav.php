@@ -1,18 +1,18 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="hhtp://smart-menu.local/">Smart menu</a>
+  <a class="navbar-brand" href="http://nathanmanigaut.com/">Smart menu</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="http://smart-menu.local/">Accueil</a>
+        <a class="nav-link" href="http://nathanmanigaut.com/">Accueil</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://smart-menu.local/login">Connexion</a>
+        <a class="nav-link" href="http://nathanmanigaut.com/login">Connexion</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://smart-menu.local/signin">Inscription</a>
+        <a class="nav-link" href="http://nathanmanigaut.com/signin">Inscription</a>
       </li>
     </ul>
   </div>
